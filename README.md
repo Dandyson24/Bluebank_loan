@@ -1,4 +1,4 @@
-                                                                 ## Bluebank_loan
+                                                                 # Bluebank_loan
 Welcome to my Python data analysis project using a fictional Bluebank loan dataset. This project explores customer behavior, loan performance, and financial insights to support better decision-making in the banking sector.
 
  Blue Bank is a bank in USA that has a loan  department which is currently understaffed. They  supply loans to individuals and don’t have much  reporting on how risky these borrowers are.  Using Python, they would like to see a report of borrowers who may have issues paying back the loan. 
